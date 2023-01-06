@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">D2D Apps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="presence">Presence</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="tv_loading">Loading…</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="field_cannot_empty">Field cannot empty</string>
+    <string name="email_invalid">Email is invalid</string>
+    <string name="minimum_pass_6_char">Minimum Password 6 Character</string>
+    <string name="tv_sign_in">SIgn In</string>
+    <string name="select">Select</string>
+    <string name="tv_create_new_account">Create New Account</string>
+    <string name="icon">Icon</string>
+    <string name="exit_logout_text">Exit</string>
+    <string name="tv_yes">Yes</string>
+    <string name="tv_cancel">Cancel</string>
 </resources>
